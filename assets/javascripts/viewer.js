@@ -1,11 +1,11 @@
 (function () {
   // TODO edit
-  const baseUrl = '/scannedImgViewer';
+  const baseUrl = '/1905TaioanChitgiapMiaJilui';
   const dataFolderPath = '/chuliau';
-  const dataNamePrefix = '/TJTST1_';
-  const dataNameNumberCount = 3;
+  const dataNamePrefix = '/1905TaioanChitgiapMiaJilui_Page_';
+  const dataNameNumberCount = 2;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 91;
 
   let imgSources = [];
   const imgSourcesMin = 1;
